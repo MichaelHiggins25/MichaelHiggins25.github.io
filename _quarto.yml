@@ -5,9 +5,8 @@ website:
   title: "Your_Name - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://michaelhiggins25.github.io/
   repo-url: https://github.com/MichaelHiggins25/MichaelHiggins25.github.io
-  #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
+  repo-actions: [issue] 
 
   page-footer: 
     border: true
